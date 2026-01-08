@@ -22,6 +22,12 @@ This folder holds the core documentation generated to restructure the video work
     *   **Purpose:** A day-to-day checklist for volunteers.
     *   **Content:** Covers power-up procedures, what to do during worship vs. preaching, and troubleshooting tips.
 
+### `atem-config/`
+This folder contains configuration files, export guides, and macro details from the actual control PC.
+*   **`HOW-TO-EXPORT.md`**: Instructions on how to export settings from the ATEM Software Control.
+*   **`README.md`**: Overview of the configuration files.
+*   **`macros/`**: Directory containing specific macro configuration details.
+
 ## Usage
 This project is a **Knowledge Base** for the AV team.
 *   **System Architects/Tech Leads:** Use `01` and `02` to understand the physical cabling and logic.
